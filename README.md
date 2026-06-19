@@ -5,9 +5,13 @@ Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'inf
 🧑‍💻 Qui suis-je ?
 
 🎓 Formation : BUT Réseaux & Télécommunications — IUT de Nancy-Brabois
+
 🏫 Bac : Baccalauréat Technologique STI2D — Lycée Raymond Poincaré, Bar-le-Duc (2025)
+
 ⚽ Sports : Football (2 ans) · Tennis de table (3 ans) · Judo (5 ans)
+
 🎬 Loisirs : Cinéma · Informatique · Clarinette
+
 🎯 Objectif : Master cybersécurité et/ou école d'ingénieur pour ensuite travailler comme ingénieur en cybersécurité
 
 🎯 Ce que ce portfolio démontre
