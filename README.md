@@ -107,7 +107,7 @@ La principale difficulté a été de comprendre les notions de traitement du sig
 
 Cette SAÉ m’a permis d’acquérir les bases du traitement numérique du signal et de mieux comprendre la relation entre les caractéristiques physiques d’un système et le signal produit. J’ai appris à analyser un signal dans les domaines temporel et fréquentiel, à utiliser des outils mathématiques pour caractériser son comportement et à exploiter MATLAB
 
-## 🏅 Pourquoi c’est une preuve valide
+🏅 Pourquoi c’est une preuve valide
 
 Cette SAÉ illustre directement ma capacité à mesurer, analyser et caractériser un signal, qui constitue l'une des compétences fondamentales du BUT Réseaux & Télécommunications. Elle démontre également ma capacité à utiliser des outils scientifiques et informatiques pour modéliser un système réel, interpréter les résultats obtenus et mettre en œuvre des solutions techniques adaptées
 
