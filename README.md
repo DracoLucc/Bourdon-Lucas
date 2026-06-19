@@ -1,54 +1,56 @@
 👋 Lucas Bourdon — Portfolio R&T · Première année
 
-Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'informatique mon métier.
-
+Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'informatique mon métier
 
 🧑‍💻 Qui suis-je ?
 
-🎓 FormationBUT Réseaux & Télécommunications — IUT de Nancy-Brabois🏫 BacBaccalauréat Technologique STI2D — Lycée Raymond Poincaré, Bar-le-Duc (2025)⚽ SportsFootball (2 ans) · Tennis de table (3 ans)🎬 LoisirsCinéma · Informatique · Clarinette🎯 ObjectifMaster cybersécurité et/ou école d'ingénieur — travailler comme ingénieur en cybersécurité
-
-Personnalité : Rigoureux · Autonome · Organisé · Curieux · Esprit d'équipe
-
+🎓 Formation : BUT Réseaux & Télécommunications — IUT de Nancy-Brabois
+🏫 Bac : Baccalauréat Technologique STI2D — Lycée Raymond Poincaré, Bar-le-Duc (2025)
+⚽ Sports : Football (2 ans) · Tennis de table (3 ans) · Judo (5 ans)
+🎬 Loisirs : Cinéma · Informatique · Clarinette
+🎯 Objectif : Master cybersécurité et/ou école d'ingénieur pour ensuite travailler comme ingénieur en cybersécurité
 
 🎯 Ce que ce portfolio démontre
 
-Ce dépôt rassemble les preuves concrètes de mes 3 compétences de première année en R&T, choisies parmi mes projets universitaires, TP et SAé.
-
+Ce dépôt rassemble les preuves concrètes de mes 3 compétences de première année en R&T, choisies parmi mes projets universitaires, TP et SAÉ
+J'ai donc decidé ici de prendre 3 SAÉ
 
 📁 Compétence 1 — [Intitulé de la compétence]
 
-
-Preuve sélectionnée : SAÉ 1.2 – S'initier aux réseaux informatiques
-
-
+Preuve sélectionnée : SAÉ 1.1 – Sensibilisation à l'hygiène informatique et à la cybersécurité
 
 🔍 La trace
 
-[Décris le livrable — rapport, fichier de config, capture Packet Tracer... Lien vers le fichier si applicable.]
+Vidéo de sensibilisation de 60 secondes sur la thématique "Ne jamais partager ses informations personnelles"
 
 🎯 L'objectif
 
-Découvrir les bases des réseaux informatiques et comprendre l'architecture réseau.
+Sensibiliser le grand public à une règle d'hygiène informatique en réalisant un film ou une animation mettant en scène la menace et son impact si la règle n'est pas respectée
 
 🛠️ Technologies & outils utilisés
 
-Cisco Packet Tracer draw.io [Outil 3]
+Adobe Premiere Pro
 
 💪 Ce que j'ai fait concrètement
 
-[Décris ton rôle précis — "j'ai configuré...", "j'ai schématisé...", "j'ai mis en place..."]
+J'ai réalisé l'intégralité de la vidéo et de la conception du scénario au montage final. J'ai géré seul le storyboard, le tournage et la post-production, en visant un rendu soigné et professionnel
 
 🚧 Défis rencontrés & comment je les ai surmontés
 
-[Cite 1-2 difficultés réelles + comment tu t'en es sorti.]
+Le principal défi était la prise en main d'Adobe Premiere Pro que je n'avais jamais utilisé. J'ai dû apprendre le logiciel en autonomie, en cherchant des tutoriels par moi-même, pour obtenir un rendu à la hauteur de ce que je voulais produire
 
 ✅ Résultats & compétence acquise
 
-[Ce qui a fonctionné, ce que tu retiens, ce qui reste à progresser.]
+Ce projet m'a permis de comprendre que la cybersécurité ne se limite pas à la technique : une grande partie repose sur l'humain. Sensibiliser et former les utilisateurs aux bons comportements est aussi important que de mettre en place des protections techniques. Prévenir les risques en éduquant les gens, c'est la première ligne de défense
 
 🏅 Pourquoi c'est une preuve valide
 
-[Justifie le lien avec le niveau de compétence attendu en 1ère année.]
+Cette SAÉ démontre ma capacité à sensibiliser des utilisateurs à la cybersécurité. Une compétence directement liée à mon projet professionnel dans ce domaine tout en gérant un projet de A à Z de manière autonome
+
+
+
+
+
 
 
 📁 Compétence 2 — [Intitulé de la compétence]
