@@ -33,7 +33,7 @@ Sensibiliser le grand public à une règle d'hygiène informatique en réalisant
 
 🛠️ Technologies & outils utilisés
 
-Adobe Premiere Pro
+Utilisaion de Adobe Premiere Pro
 
 💪 Ce que j'ai fait concrètement
 
@@ -65,19 +65,19 @@ Utilisaion de Linux avec les outils GREP, AWK et SED et les commandes simples de
 
 💪 Ce que j'ai fait concrètement
 
-
+J'ai travaillé sur différents fichiers de données afin d'extraire, filtrer et modifier des informations à l'aide des outils Linux étudiés en cours. J'ai utilisé GREP pour rechercher des informations spécifiques, AWK pour trier et exploiter certaines données, et SED pour automatiser des modifications dans des fichiers texte. J'ai également appris à utiliser efficacement le terminal Linux pour naviguer dans le système, gérer des fichiers et exécuter des commandes en ligne de commande
 
 🚧 Défis rencontrés & comment je les ai surmontés
 
-
+La principale difficulté a été de comprendre la syntaxe parfois complexe des commandes Linux, notamment pour les expressions régulières utilisées avec GREP et SED. Pour progresser, j'ai pris l'initiative de remplacer le système d'exploitation de tous mes ordinateurs personnels par Linux Mint afin de l'utiliser au quotidien. Cette démarche m'a permis de pratiquer régulièrement les commandes Linux et la gestion des fichiers
 
 ✅ Résultats & compétence acquise
 
-[Résultat concret + bilan honnête.]
+À l'issue de ce travail, j'ai acquis les bases nécessaires pour manipuler efficacement des données sous Linux et automatiser certaines tâches répétitives. J'ai également développé une meilleure compréhension du fonctionnement d'un système d'exploitation et de l'intérêt des outils en ligne de commande pour traiter rapidement de grandes quantités d'informations
 
 🏅 Pourquoi c'est une preuve valide
 
-[Lien explicite avec le niveau de compétence visé.]
+Cette SAÉ démontre ma capacité à utiliser un environnement Linux pour analyser et exploiter des données de manière autonome. Ces compétences sont essentielles dans les domaines des réseaux et de la cybersécurité, où l'utilisation du terminal et des outils d'automatisation est omniprésente. Elle illustre également ma capacité à apprendre et à appliquer des méthodes techniques pour résoudre des problématiques concrètes
 
 
 📁 Compétence 3 — [Intitulé de la compétence]
