@@ -61,7 +61,7 @@ Manipuler et analyser des données sous Linux à l'aide d'outils de traitement d
 
 🛠️ Technologies & outils utilisés
 
-Utilisaion de Linux avec les outils GREP, AWK et SED et les commandes simples de Linux
+Utilisation de Linux avec les outils GREP, AWK et SED et les commandes simples de Linux
 
 💪 Ce que j'ai fait concrètement
 
@@ -80,74 +80,42 @@ La principale difficulté a été de comprendre la syntaxe parfois complexe des 
 Cette SAÉ démontre ma capacité à utiliser un environnement Linux pour analyser et exploiter des données de manière autonome. Ces compétences sont essentielles dans les domaines des réseaux et de la cybersécurité, où l'utilisation du terminal et des outils d'automatisation est omniprésente. Elle illustre également ma capacité à apprendre et à appliquer des méthodes techniques pour résoudre des problématiques concrètes
 
 
-📁 Compétence 3 — [Intitulé de la compétence]
+📁 Compétence 3 
 
-
-Preuve sélectionnée : SAÉ 1.4 – Se présenter sur Internet
-
-
+Preuve sélectionnée : SAÉ 2.2 – Mesurer et caractériser un signal ou un système
 
 🔍 La trace
 
-[Lien vers ta page web ou capture d'écran si applicable.]
+Programme MATLAB permettant de synthétiser des sons de guitare à l'aide de l'algorithme de Karplus-Strong et de jouer une partition musicale personnalisée avec différents effets sonores
 
-🎯 L'objectif
+🎯 L’objectif
 
-Créer une page web personnelle en HTML/CSS.
+Comprendre les traitements fondamentaux du signal (filtrage, analyse fréquentielle et synthèse sonore) en développant sous MATLAB un système capable de reproduire des notes de guitare puis une mélodie complète
 
 🛠️ Technologies & outils utilisés
 
-HTML CSS XHTML JavaScript
+Utilisation de MATLAB, traitement numérique du signal, transformée de Fourier (FFT), filtrage passe-bas, synthèse sonore par l'algorithme de Karplus-Strong
 
-💪 Ce que j'ai fait concrètement
+💪 Ce que j’ai fait concrètement
 
-[Ton rôle précis — "j'ai conçu la structure...", "j'ai intégré..."]
+J’ai développé plusieurs programmes MATLAB permettant de générer des notes de musique à partir d’un modèle de corde pincée. J’ai analysé le comportement des signaux dans les domaines temporel et fréquentiel grâce à la FFT, étudié l’influence du filtrage passe-bas sur le spectre d’un signal et implémenté l’algorithme de Karplus-Strong afin de synthétiser des sons de guitare. J’ai ensuite participé à la réalisation d’une partition musicale et à l’ajout d’un effet sonore pour personnaliser le rendu final
 
 🚧 Défis rencontrés & comment je les ai surmontés
 
-[1-2 difficultés + résolution.]
+La principale difficulté a été de comprendre les notions de traitement du signal, notamment le fonctionnement du filtrage et l'interprétation des spectres fréquentiels. J’ai surmonté ces difficultés en réalisant de nombreux tests sous MATLAB, en comparant les résultats obtenus avec les phénomènes théoriques étudiés en cours et en modifiant progressivement les paramètres du programme afin d'observer leur impact sur le son généré
 
 ✅ Résultats & compétence acquise
 
-[Résultat + bilan honnête.]
+Cette SAÉ m’a permis d’acquérir les bases du traitement numérique du signal et de mieux comprendre la relation entre les caractéristiques physiques d’un système et le signal produit. J’ai appris à analyser un signal dans les domaines temporel et fréquentiel, à utiliser des outils mathématiques pour caractériser son comportement et à exploiter MATLAB
 
-🏅 Pourquoi c'est une preuve valide
+🏅 Pourquoi c’est une preuve valide
 
-[Justification du lien avec la compétence.]
-
-
-🛠️ Compétences techniques
-
-Réseaux
-Bases réseaux Schématisation Mini-infrastructures Config switch/routeur Wireshark Cisco Packet Tracer Putty
-
-Développement
-Java JavaScript HTML/CSS Web dynamique SQL
-
-Linux
-Commandes Linux GREP SED AWK
-
-Outils
-Machines virtuelles MATLAB draw.io
-
+Cette SAÉ illustre directement ma capacité à mesurer, analyser et caractériser un signal, qui constitue l'une des compétences fondamentales du BUT Réseaux & Télécommunications. Elle démontre également ma capacité à utiliser des outils scientifiques et informatiques pour modéliser un système réel, interpréter les résultats obtenus et mettre en œuvre des solutions techniques adaptées
 
 🔭 Bilan & Perspectives
 
-Ce que cette année m'a appris
+Ce que cette année m'a appris :
+Cette première année en BUT Réseaux & Télécommunications m’a permis d’acquérir des bases solides dans les réseaux, l’informatique, les systèmes Linux et le traitement du signal. J’ai appris à travailler de manière plus autonome, à rechercher des solutions par moi-même et à m’adapter à de nouveaux outils techniques. Les différents projets et SAÉ m’ont également permis de développer ma rigueur, ma capacité d’analyse et ma méthode de travail. Enfin, cette année a confirmé mon intérêt pour les domaines des réseaux et de la cybersécurité.
 
-
-[3-5 phrases sincères sur ce que tu retiens vraiment — techniques, méthodes, sur toi-même.]
-
-
-
-Ce que je veux explorer ensuite
-
-
-Master cybersécurité et/ou école d'ingénieur, avec pour objectif de travailler comme ingénieur en cybersécurité.
-
-
-
-Ce que cette année en R&T m'a permis de faire / a été / m'a révélé…
-
-
-[Ta phrase de conclusion — libre, personnelle, mémorable.]
+Ce que cette année en R&T m'a permis de faire / a été / m'a révélé : 
+Cette année en R&T m’a permis de transformer mon intérêt pour l’informatique en véritables compétences techniques et de confirmer mon projet professionnel : devenir ingénieur en cybersécurité.
