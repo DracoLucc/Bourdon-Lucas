@@ -14,12 +14,12 @@ Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'inf
 
 🎯 Objectif : Master cybersécurité et/ou école d'ingénieur pour ensuite travailler comme ingénieur en cybersécurité
 
-🎯 Ce que ce portfolio démontre
+## 🎯 Ce que ce portfolio démontre
 
 Ce dépôt rassemble les preuves concrètes de mes 3 compétences de première année en R&T, choisies parmi mes projets universitaires, TP et SAÉ
 J'ai donc decidé ici de prendre 3 SAÉ
 
-📁 Compétence 1
+## 📁 Compétence 1
 
 Preuve sélectionnée : SAÉ 1.1 – Sensibilisation à l'hygiène informatique et à la cybersécurité
 
@@ -51,7 +51,7 @@ Ce projet m'a permis de comprendre que la cybersécurité ne se limite pas à la
 
 Cette SAÉ démontre ma capacité à sensibiliser des utilisateurs à la cybersécurité. Une compétence directement liée à mon projet professionnel dans ce domaine tout en gérant un projet de A à Z de manière autonome
 
-📁 Compétence 2
+## 📁 Compétence 2
 
 Preuve sélectionnée : SAÉ 1.5 – Traitement de données et R 1.08 - Bases des systèmes d'exploitation
 
@@ -79,8 +79,7 @@ La principale difficulté a été de comprendre la syntaxe parfois complexe des 
 
 Cette SAÉ démontre ma capacité à utiliser un environnement Linux pour analyser et exploiter des données de manière autonome. Ces compétences sont essentielles dans les domaines des réseaux et de la cybersécurité, où l'utilisation du terminal et des outils d'automatisation est omniprésente. Elle illustre également ma capacité à apprendre et à appliquer des méthodes techniques pour résoudre des problématiques concrètes
 
-
-📁 Compétence 3 
+## 📁 Compétence 3 
 
 Preuve sélectionnée : SAÉ 2.2 – Mesurer et caractériser un signal ou un système
 
@@ -108,11 +107,11 @@ La principale difficulté a été de comprendre les notions de traitement du sig
 
 Cette SAÉ m’a permis d’acquérir les bases du traitement numérique du signal et de mieux comprendre la relation entre les caractéristiques physiques d’un système et le signal produit. J’ai appris à analyser un signal dans les domaines temporel et fréquentiel, à utiliser des outils mathématiques pour caractériser son comportement et à exploiter MATLAB
 
-🏅 Pourquoi c’est une preuve valide
+## 🏅 Pourquoi c’est une preuve valide
 
 Cette SAÉ illustre directement ma capacité à mesurer, analyser et caractériser un signal, qui constitue l'une des compétences fondamentales du BUT Réseaux & Télécommunications. Elle démontre également ma capacité à utiliser des outils scientifiques et informatiques pour modéliser un système réel, interpréter les résultats obtenus et mettre en œuvre des solutions techniques adaptées
 
-🔭 Bilan & Perspectives
+## 🔭 Bilan & Perspectives
 
 Ce que cette année m'a appris :
 Cette première année en BUT Réseaux & Télécommunications m’a permis d’acquérir des bases solides dans les réseaux, l’informatique, les systèmes Linux et le traitement du signal. J’ai appris à travailler de manière plus autonome, à rechercher des solutions par moi-même et à m’adapter à de nouveaux outils techniques. Les différents projets et SAÉ m’ont également permis de développer ma rigueur, ma capacité d’analyse et ma méthode de travail. Enfin, cette année a confirmé mon intérêt pour les domaines des réseaux et de la cybersécurité.
