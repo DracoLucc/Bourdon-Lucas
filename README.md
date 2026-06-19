@@ -1,8 +1,8 @@
-👋 Lucas Bourdon — Portfolio R&T · Première année
+# 👋 Lucas Bourdon — Portfolio R&T · Première année
 
 Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'informatique mon métier
 
-🧑‍💻 Qui suis-je ?
+## 🧑‍💻 Qui suis-je ?
 
 🎓 Formation : BUT Réseaux & Télécommunications — IUT de Nancy-Brabois
 
