@@ -1,8 +1,8 @@
-####👋 Lucas Bourdon — Portfolio R&T · Première année
+👋 Lucas Bourdon — Portfolio R&T · Première année
 
 Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'informatique mon métier
 
-##🧑‍💻 Qui suis-je ?
+🧑‍💻 Qui suis-je ?
 
 🎓 Formation : BUT Réseaux & Télécommunications — IUT de Nancy-Brabois
 
@@ -12,9 +12,9 @@ Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'inf
 
 🎬 Loisirs : Cinéma · Informatique · Clarinette
 
-##🎯 Objectif : Master cybersécurité et/ou école d'ingénieur pour ensuite travailler comme ingénieur en cybersécurité
+🎯 Objectif : Master cybersécurité et/ou école d'ingénieur pour ensuite travailler comme ingénieur en cybersécurité
 
-##🎯 Ce que ce portfolio démontre
+🎯 Ce que ce portfolio démontre
 
 Ce dépôt rassemble les preuves concrètes de mes 3 compétences de première année en R&T, choisies parmi mes projets universitaires, TP et SAÉ
 J'ai donc decidé ici de prendre 3 SAÉ
