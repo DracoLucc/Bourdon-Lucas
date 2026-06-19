@@ -1,14 +1,13 @@
-👋 [Prénom NOM] — Portfolio R&T · Première année
+👋 Lucas Bourdon — Portfolio R&T · Première année
 
-
-[UNE phrase qui te définit — ex: "Passionné de cybersécurité, venu du rugby et tombé dans les réseaux par accident."]
-
-
+Passionné de réseaux, de cybersécurité et de cinéma, je veux faire de l'informatique mon métier.
 
 
 🧑‍💻 Qui suis-je ?
 
-🎓 FormationBUT Réseaux & Télécommunications — 1ère année📍 Origine[Ville / Région / Pays]🏆 Sport / Loisir[Sport de prédilection ou passion]⚡ Ce qui me motive en R&T[Pourquoi ce domaine t'attire — sois précis, évite le générique]
+🎓 FormationBUT Réseaux & Télécommunications — IUT de Nancy-Brabois🏫 BacBaccalauréat Technologique STI2D — Lycée Raymond Poincaré, Bar-le-Duc (2025)⚽ SportsFootball (2 ans) · Tennis de table (3 ans)🎬 LoisirsCinéma · Informatique · Clarinette🎯 ObjectifMaster cybersécurité et/ou école d'ingénieur — travailler comme ingénieur en cybersécurité
+
+Personnalité : Rigoureux · Autonome · Organisé · Curieux · Esprit d'équipe
 
 
 🎯 Ce que ce portfolio démontre
@@ -19,57 +18,57 @@ Ce dépôt rassemble les preuves concrètes de mes 3 compétences de première a
 📁 Compétence 1 — [Intitulé de la compétence]
 
 
-Preuve sélectionnée : [Nom du projet / TP / SAé]
+Preuve sélectionnée : SAÉ 1.2 – S'initier aux réseaux informatiques
 
 
 
 🔍 La trace
 
-[Décris brièvement ce que tu as produit ou réalisé — rapport, config réseau, code, maquette... Lien vers le fichier ou le dossier si applicable.]
+[Décris le livrable — rapport, fichier de config, capture Packet Tracer... Lien vers le fichier si applicable.]
 
 🎯 L'objectif
 
-[Qu'est-ce que ce projet cherchait à accomplir ? Sois précis.]
+Découvrir les bases des réseaux informatiques et comprendre l'architecture réseau.
 
 🛠️ Technologies & outils utilisés
 
-[Outil 1] [Outil 2] [Outil 3] [Outil 4]
+Cisco Packet Tracer draw.io [Outil 3]
 
 💪 Ce que j'ai fait concrètement
 
-[Décris ton rôle personnel — pas "on a fait" mais "j'ai configuré / j'ai codé / j'ai résolu".]
+[Décris ton rôle précis — "j'ai configuré...", "j'ai schématisé...", "j'ai mis en place..."]
 
 🚧 Défis rencontrés & comment je les ai surmontés
 
-[Cite 1-2 difficultés réelles + comment tu t'en es sorti(e). C'est là que ta valeur se voit.]
+[Cite 1-2 difficultés réelles + comment tu t'en es sorti.]
 
 ✅ Résultats & compétence acquise
 
-[Qu'est-ce qui a fonctionné ? Qu'est-ce que tu retiens ? Sois honnête — même un "pas encore maîtrisé mais..." est valorisable.]
+[Ce qui a fonctionné, ce que tu retiens, ce qui reste à progresser.]
 
 🏅 Pourquoi c'est une preuve valide
 
-[Justifie en quoi ce projet illustre le niveau de compétence attendu en 1ère année.]
+[Justifie le lien avec le niveau de compétence attendu en 1ère année.]
 
 
 📁 Compétence 2 — [Intitulé de la compétence]
 
 
-Preuve sélectionnée : [Nom du projet / TP / SAé]
+Preuve sélectionnée : SAÉ 1.5 – Traitement de données
 
 
 
 🔍 La trace
 
-[Décris ce que tu as produit. Lien vers le fichier ou dossier si applicable.]
+[Décris le livrable. Lien vers le fichier si applicable.]
 
 🎯 L'objectif
 
-[Objectif du projet.]
+Manipuler et analyser des données sous Linux à l'aide d'outils de traitement de texte.
 
 🛠️ Technologies & outils utilisés
 
-[Outil 1] [Outil 2] [Outil 3]
+Linux GREP AWK SED Machines virtuelles
 
 💪 Ce que j'ai fait concrètement
 
@@ -81,7 +80,7 @@ Preuve sélectionnée : [Nom du projet / TP / SAé]
 
 ✅ Résultats & compétence acquise
 
-[Résultat concret + ce que tu retiens.]
+[Résultat concret + bilan honnête.]
 
 🏅 Pourquoi c'est une preuve valide
 
@@ -91,25 +90,25 @@ Preuve sélectionnée : [Nom du projet / TP / SAé]
 📁 Compétence 3 — [Intitulé de la compétence]
 
 
-Preuve sélectionnée : [Nom du projet / TP / SAé]
+Preuve sélectionnée : SAÉ 1.4 – Se présenter sur Internet
 
 
 
 🔍 La trace
 
-[Décris ce que tu as produit. Lien vers le fichier ou dossier si applicable.]
+[Lien vers ta page web ou capture d'écran si applicable.]
 
 🎯 L'objectif
 
-[Objectif du projet.]
+Créer une page web personnelle en HTML/CSS.
 
 🛠️ Technologies & outils utilisés
 
-[Outil 1] [Outil 2] [Outil 3]
+HTML CSS XHTML JavaScript
 
 💪 Ce que j'ai fait concrètement
 
-[Ton rôle précis.]
+[Ton rôle précis — "j'ai conçu la structure...", "j'ai intégré..."]
 
 🚧 Défis rencontrés & comment je les ai surmontés
 
@@ -124,6 +123,21 @@ Preuve sélectionnée : [Nom du projet / TP / SAé]
 [Justification du lien avec la compétence.]
 
 
+🛠️ Compétences techniques
+
+Réseaux
+Bases réseaux Schématisation Mini-infrastructures Config switch/routeur Wireshark Cisco Packet Tracer Putty
+
+Développement
+Java JavaScript HTML/CSS Web dynamique SQL
+
+Linux
+Commandes Linux GREP SED AWK
+
+Outils
+Machines virtuelles MATLAB draw.io
+
+
 🔭 Bilan & Perspectives
 
 Ce que cette année m'a appris
@@ -136,11 +150,11 @@ Ce que cette année m'a appris
 Ce que je veux explorer ensuite
 
 
-[Domaines, spécialisations, projets qui t'attirent pour la suite du BUT ou après. Sois ambitieux mais crédible.]
+Master cybersécurité et/ou école d'ingénieur, avec pour objectif de travailler comme ingénieur en cybersécurité.
 
 
 
 Ce que cette année en R&T m'a permis de faire / a été / m'a révélé…
 
 
-[La phrase de conclusion qui te ressemble — libre, personnelle, mémorable.]
+[Ta phrase de conclusion — libre, personnelle, mémorable.]
